@@ -7,6 +7,14 @@
 
 .fluid {
   margin: 0px 40px;
-  max-width: 1200px;
+  max-width: 1200px;  
   width: 100%;
+}
+
+.button {
+  display: block;
+  margin: 0px auto;
+  max-height: 50%;
+  max-width: 100%;
+  object-fit: scale-down;
 }
